@@ -68,6 +68,8 @@ git commit -m "[BOJ] Hello World / 브론즈5" -m "https://www.acmicpc.net/probl
 - 플랫폼별 태그 규칙
   - [BOJ] - 백준
   - [PGS] - 프로그래머스
+  - [THY] - 자료구조 및 알고리즘 학습 
+  - [TIC] - [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://product.kyobobook.co.kr/detail/S000001810273)
 
 이 외에 추가하고 싶은 플랫폼이 있을 경우 건의 바람
 
