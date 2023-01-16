@@ -58,11 +58,11 @@ ex)
 
 > commit 메세지의 규칙을 지키지 않을 경우 Merge하지 않을 예정
 
-- commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간
+- commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도
 - description: 문제 주소 (option)
 
 ```
-git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
+git commit -m "[BOJ] Hello World / 브론즈5" -m "https://www.acmicpc.net/problem/2557"
 ```
 
 - 플랫폼별 태그 규칙
